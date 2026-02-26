@@ -36,4 +36,4 @@ Every existing ADU product has at least one of these fatal weaknesses: outdated 
 
 ## Our Differentiation (Use in Marketing)
 
-"Written by a construction project manager, not a contractor selling services." Independent perspective from the owner's side of the table, covering 26+ states with 2025–2026 legislation, updated regularly (digital advantage over print), and priced at a fraction of a single consultation hour.
+"Written by a construction project manager, not a contractor selling services." Independent perspective from the owner's side of the table, covering 26+ targeted state references with 2025–2026 legislative tracking, updated regularly (digital advantage over print), and priced at a fraction of a single consultation hour.

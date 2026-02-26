@@ -7,7 +7,7 @@ Read this document before writing any chapter. It defines the scope, key topics,
 ## Part I: Should You Build an ADU?
 
 ### Chapter 1 — The ADU Landscape in 2025–2026
-**Scope:** Set context and manage expectations. What an ADU is, the four types (detached, attached, garage conversion, JADU), market snapshot with cost ranges by type and region, the legislative revolution across 26+ states, and who this guide is for.
+**Scope:** Set context and manage expectations. What an ADU is, the four types (detached, attached, garage conversion, JADU), market snapshot with cost ranges by type and region, the legislative shift across at least 18 states with enacted ADU laws as of September 15, 2025 (plus broader partial reforms), and who this guide is for.
 **Length:** 15–20 pages.
 **Deliverables:** None (context-setting chapter).
 
@@ -29,7 +29,7 @@ Read this document before writing any chapter. It defines the scope, key topics,
 
 ### Chapter 5 — Your State's ADU Rules: A Regulatory Reference
 **Scope:** Consistent framework applied to each state. State-by-state coverage using `regulations/_template.md` format: enabling legislation, key provisions, local override rules, city-level highlights for top ADU markets, the "regulation change tracker" methodology.
-**Tier coverage:** Foundation = CA, WA, OR, MA, CO. Builder adds TX, FL, AZ, HI, VT, MN, MT, UT, CT, ME. Complete = all 26+ states.
+**Tier coverage:** Foundation = CA, WA, OR, MA, CO. Builder adds TX, FL, AZ, HI, VT, MN, MT, UT, CT, ME. Complete = all targeted 26+ state references.
 **Deliverable:** The state reference sections themselves are the deliverable.
 
 ---

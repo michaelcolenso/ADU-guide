@@ -1,0 +1,16 @@
+{
+  "name": "adu-guide",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:guide": "node build/compile-guide.js",
+    "build:tools": "node build/compile-tools.js",
+    "build:foundation": "node build/package-tiers.js --tier foundation",
+    "build:builder": "node build/package-tiers.js --tier builder",
+    "build:complete": "node build/package-tiers.js --tier complete",
+    "build:tiers": "node build/package-tiers.js",
+    "package:tiers": "npm run build:tiers",
+    "build": "npm run build:guide && npm run build:tools && npm run build:tiers",
+    "build:all": "npm run build"
+  }
+}

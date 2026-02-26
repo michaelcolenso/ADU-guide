@@ -13,9 +13,14 @@ git clone <repo-url> && cd adu-guide && npm install
 ## Build
 
 ```bash
-npm run build:all     # Build everything
-npm run build:guide   # Compile guide PDF only
-npm run build:tools   # Generate tools only
+npm run build         # Build guide + tools + tiers
+npm run build:guide   # Compile markdown guide artifacts
+npm run build:tools   # Collect tools/templates/checklists
+npm run build:tiers   # Package foundation/builder/complete bundles
+npm run build:foundation # Package only foundation tier bundle
+npm run build:builder    # Package only builder tier bundle
+npm run build:complete   # Package only complete tier bundle
+npm run build:all     # Alias for npm run build
 ```
 
 ## Key Files
