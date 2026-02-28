@@ -187,9 +187,75 @@ When you make a factual claim in any chapter or tool, add the source here. Use t
 
 ---
 
+---
+
+## Chapter 8 — The Permit Process (2026-02-28)
+
+### California Ministerial Approval Timeline
+
+- **Claim:** California Government Code § 66333 requires ministerial processing of ADU applications on lots with existing dwellings, with action required within 60 days of a complete application. The completeness determination itself must be made within 30 days of submission.
+- **Source:** California Legislative Information (Gov. Code § 66333)
+- **URL:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=66333
+- **Accessed:** 2026-02-28
+- **Category:** A
+- **Notes:** Primary statute governing ministerial ADU processing timeline in California.
+
+### Washington Ministerial Processing
+
+- **Claim:** Washington HB 1337 (2023) provisions establish ministerial ADU approval pathways and processing requirements under RCW 36.70A.681, with 120-day processing requirements for covered jurisdictions.
+- **Source:** Washington State Department of Commerce ADU guidance
+- **URL:** https://www.commerce.wa.gov/growth-management/housing-planning/adus/
+- **Accessed:** 2026-02-28
+- **Category:** A
+- **Notes:** Cross-references existing sources.md entry for Washington HB 1337. The 120-day timeline is referenced in Commerce guidance; verify against specific RCW provision before publication. [VERIFY specific statutory cite for 120-day figure]
+
+### Oregon Ministerial ADU Pathway
+
+- **Claim:** Oregon ORS 197A.425 establishes ministerial ADU approval requirements for cities over 2,500 population within urban growth boundaries.
+- **Source:** Oregon Legislative Assembly ORS portal
+- **URL:** https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html
+- **Accessed:** 2026-02-28
+- **Category:** A
+- **Notes:** Consistent with existing sources.md entry for Oregon regulations.
+
+### ADU Permit Application Fees
+
+- **Claim:** ADU permit application fees typically run $2,000–$8,000 depending on jurisdiction and project valuation, with some high-cost cities exceeding $10,000 for complex projects.
+- **Source:** Author expertise / applicant-reported ranges across multiple jurisdictions
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** B
+- **Notes:** Verify with specific fee schedules before publication. [VERIFY with 3+ jurisdiction fee schedules]
+
+### Los Angeles Standard Plan Program
+
+- **Claim:** Los Angeles Department of Building and Safety Standard Plan Program offers pre-approved ADU designs with reduced plan check timelines of 2–4 weeks under the ADU Express program.
+- **Source:** Los Angeles Department of Building and Safety (LADBS)
+- **URL:** https://ladbs.org/services/check-status/standard-plan-program
+- **Accessed:** 2026-02-28
+- **Category:** A
+- **Notes:** ADU Express program timelines should be verified directly with LADBS as program structure and timelines may change.
+
+### Plan Check Timeline Ranges (Chapter 8 Table)
+
+- **Claim:** Plan check timelines for ADU applications range from 2–4 weeks (LA ADU Express), 4–8 weeks (Denver, Sacramento), 6–12 weeks (Portland, Seattle, San Jose), 10–20 weeks (San Francisco), 12–24 weeks (Oakland, Berkeley).
+- **Source:** Author expertise / applicant-reported ranges; Category B
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** B
+- **Notes:** Table reflects reported applicant experience as of early 2026. [VERIFY each city range with current jurisdiction sources or published applicant data before publication]
+
+---
+
 ## [UNVERIFIED — Action Required]
 
 Move any claim here that you weren't able to verify at time of writing. These must be resolved before publication.
+
+### Chapter 8 Items Flagged for Verification
+
+- Washington 120-day processing timeline — locate specific RCW statutory cite beyond Commerce guidance reference
+- Plan check timeline table data — verify each city range with current jurisdiction sources or published ADU advocate data
+- Permit fee ranges — verify with at least 3 specific jurisdiction fee schedules (LA, Seattle, Denver recommended)
 
 ---
 
