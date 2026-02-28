@@ -55,6 +55,26 @@ If steps 1-6 hold up, you are ready for schematic design and early pricing. If t
 
 This chapter's companion deliverable, the **Property Feasibility Scorecard**, turns these checks into a pass/fail screen so you can make a go/no-go decision with less guesswork.
 
+## When Not to Build: Seven Stop Conditions
+
+Most ADU guides are written by people who want you to build one. This section is different. There are situations where the right answer is to stop, wait, or abandon the project entirely — and getting there honestly before you spend $15,000–$30,000 in design and engineering fees is worth more than any contractor vetting advice in this guide.
+
+**Stop Condition 1: Your project cost exceeds 80% of your available equity.** If a realistic all-in budget — including hard costs, soft costs, utility work, financing costs, and a proper contingency — requires drawing down more than 80% of your home equity, your financial cushion is too thin. A single significant change order or permit complication can put you underwater. Either reduce scope or wait until you have more equity to work with.
+
+**Stop Condition 2: Your sewer lateral needs full replacement.** A failed lateral — one that requires excavation and replacement rather than lining — costs $8,000–$30,000 before you break ground on anything else. If a camera inspection confirms this and the cost isn't already in your budget, run the numbers again from scratch. Many projects that looked like solid investments become marginal when this cost is added honestly.
+
+**Stop Condition 3: Your HOA is actively hostile and the legal conflict is unresolved.** State law preempts many HOA restrictions, but "preempts in principle" and "resolved in your jurisdiction with your specific CC&Rs" are different things. If your HOA has indicated it will fight the project and you haven't gotten a definitive legal opinion on where state preemption applies to your specific documents, building without that clarity is a significant risk. The cost of an HOA dispute — legal fees, construction delays, potential forced removal — can exceed the project value.
+
+**Stop Condition 4: You're planning to sell within three years.** An ADU adds property value, but the appraised value uplift rarely captures 100% of the construction cost in the short term. If you're within three years of a planned sale, run an honest analysis: will the after-completion appraised value exceed your all-in cost by enough to justify the disruption, financing cost, and construction risk? In many markets, the answer is no unless rents are very strong during that window.
+
+**Stop Condition 5: Your jurisdiction is actively processing a moratorium or downzone.** Some cities with technically ADU-friendly state law have responded with administrative delays, fee escalations, or policy pushback that functionally slows or complicates approvals. If your city's planning department has signaled hostility, has pending rule changes, or has a history of drawing out ADU applications beyond state timelines, factor that into your timeline and risk assessment before committing.
+
+**Stop Condition 6: You cannot carry the project through a six-month delay without financial distress.** Construction delays happen. Permit corrections take longer than expected. Contractors hit capacity constraints. If a six-month delay in CO — and the associated carrying costs on a construction loan — would create serious financial pressure, the project timeline is too aggressive for your situation. Builds with financial margin survive construction reality; builds without it frequently don't.
+
+**Stop Condition 7: Your only viable footprint has one deal-breaker constraint you haven't resolved.** If your site assessment from the section above produced exactly one location that technically works, and that location has an unresolved constraint — a large tree with protected status, a utility easement that may need variance, a neighbor structure within a few feet of the property line — you are building on fragile ground. Identify a backup footprint or resolve the constraint before committing to design.
+
+None of these conditions are permanent. Most can be resolved with time, additional equity, legal clarification, or a revised scope. The homeowner who identifies a stop condition early and pauses is in a much better position than the one who discovers it after breaking ground.
+
 ## Sources
 
 - [S1] California Government Code § 66317 (ministerial process and 60-day decision window): https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=66317.
