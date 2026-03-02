@@ -15,6 +15,18 @@ Track claims that need verification before publication. Remove entries once veri
 |--------|-------|---------|----------|-------|
 | 🟡 | ADU market $19.65B in 2025 | Ch1, Marketing | HIGH | Only low-transparency private report source found; do not use as primary claim without stronger source. |
 | 🟡 | LA ADU permits grew 8,850% (2016–2022) | Ch1 | MEDIUM | Verified via CAYIMBY retrospective citing HCD-compiled data; promote to green after direct raw-data extract is logged. |
+| 🔴 | Current HELOC rate range (prime plus 0.5%–2%, approximately 8%–11% as of early 2026) | Ch6 | HIGH | Rate environment changes; verify with 3+ lender rate sheets before publication. |
+| 🔴 | Current home equity loan rate range (7%–10% as of early 2026) | Ch6 | HIGH | Verify with current lender rate sheets. |
+| 🔴 | Current 30-year fixed mortgage rate range (6.5%–8% as of early 2026) | Ch6 | HIGH | Verify with Freddie Mac Primary Mortgage Market Survey or CFPB mortgage data. |
+| 🔴 | Current construction loan rate range (7%–11%) | Ch6 | HIGH | Verify with regional lender/construction loan rate data. |
+| 🔴 | Cash-out refi: over 30 years, additional interest on existing balance can exceed $150,000 | Ch6 | MEDIUM | Validate with amortization modeling at specific example rate assumptions stated in text. |
+| 🔴 | FHA 203(k) Limited cap at $35,000 and current FHA county loan limits ($498,257–$1,149,825) | Ch6 | HIGH | Verify current limits with HUD. Limits updated annually. |
+| 🔴 | Fannie Mae HomeStyle LTV limit at 75% of as-completed value | Ch6 | HIGH | Verify current program terms with Fannie Mae selling guide. |
+| 🔴 | CalHFA ADU grant up to $40,000 — confirm current program status and dollar amount | Ch6 | HIGH | CalHFA program has changed year to year; confirm active status and current terms before publication. |
+| 🔴 | IRS Applicable Federal Rate (AFR) for family loans — cite current monthly rate | Ch6 | MEDIUM | AFR is updated monthly by IRS. Link to IRS Rev. Rul. for current month before publication. |
+| 🔴 | Loan Estimate delivery within three business days — confirm TRID regulatory requirement still current | Ch6 | LOW | Established under Regulation Z / TRID; verify no recent regulatory changes. |
+| 🔴 | All-in financing costs typically add 2%–5% to total project cost | Ch6 | MEDIUM | Validate range against industry sources or author experience documentation. |
+| 🔴 | ADU-specific lender landscape — verify which lenders are currently active and offering ADU products | Ch6 | MEDIUM | Emerging sector; firms have entered and exited market. Verify before naming any specific lenders. |
 
 ---
 

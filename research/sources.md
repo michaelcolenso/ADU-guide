@@ -247,6 +247,55 @@ When you make a factual claim in any chapter or tool, add the source here. Use t
 
 ---
 
+## Chapter 6 — Financing Options (2026-03-02)
+
+### Fannie Mae HomeStyle Renovation Loan
+
+- **Claim:** Fannie Mae HomeStyle renovation loan allows renovation financing of up to 75% of the "as-completed" value of the property and is available for primary residences, second homes, and investment properties.
+- **Source:** Fannie Mae HomeStyle Renovation program overview
+- **URL:** https://www.fanniemae.com/homebuying-guide/homestyle-renovation
+- **Accessed:** 2026-03-02
+- **Category:** A
+- **Notes:** Confirm current LTV limit (75% as-completed) and program eligibility details before publication. [VERIFY]
+
+### FHA 203(k) Rehabilitation Mortgage Insurance
+
+- **Claim:** FHA Standard 203(k) allows significant structural work including ADU construction; Limited 203(k) caps eligible repairs at $35,000. FHA county loan limits range from approximately $498,257 in lower-cost areas to $1,149,825 in high-cost markets (2025–2026).
+- **Source:** HUD FHA 203(k) Rehabilitation Mortgage Insurance program
+- **URL:** https://www.hud.gov/program_offices/housing/sfh/203k/203k--df
+- **Accessed:** 2026-03-02
+- **Category:** A
+- **Notes:** Loan limits are updated annually by HUD. Verify current limits and Limited 203(k) cap before publication. [VERIFY]
+
+### CFPB — HELOC Overview
+
+- **Claim:** HELOC is a revolving line of credit secured by home, typically with variable interest rate tied to prime rate plus a margin.
+- **Source:** Consumer Financial Protection Bureau (CFPB), Home Equity Line of Credit overview
+- **URL:** https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-line-of-credit-heloc-en-106/
+- **Accessed:** 2026-03-02
+- **Category:** A
+- **Notes:** Used for structural description of HELOC product. Rate ranges flagged [VERIFY] separately.
+
+### CFPB — Loan Estimate
+
+- **Claim:** Federal law requires lenders to provide a standardized Loan Estimate within three business days of receiving a complete application.
+- **Source:** CFPB, Loan Estimate explainer and regulatory requirements
+- **URL:** https://www.consumerfinance.gov/owning-a-home/loan-estimate/
+- **Accessed:** 2026-03-02
+- **Category:** A
+- **Notes:** Regulatory requirement under RESPA/TRID. Verify the three-business-day requirement is still current. [VERIFY]
+
+### CalHFA ADU Grant Program
+
+- **Claim:** California Housing Finance Agency (CalHFA) has offered ADU grant programs including assistance of up to $40,000 in pre-development costs in prior program years.
+- **Source:** CalHFA ADU Grant Program page
+- **URL:** https://www.calhfa.ca.gov/adu/
+- **Accessed:** 2026-03-02
+- **Category:** A
+- **Notes:** Program structure, dollar amount, and availability change year to year. Verify current program status and amount before citing specific figures in the guide. [VERIFY]
+
+---
+
 ## [UNVERIFIED — Action Required]
 
 Move any claim here that you weren't able to verify at time of writing. These must be resolved before publication.
