@@ -500,3 +500,100 @@ Move any claim here that you weren't able to verify at time of writing. These mu
 - **Accessed:** N/A
 - **Category:** C
 - **Notes:** [VERIFY fee range with 2–3 specific jurisdiction fee schedules before publication]
+
+---
+
+## Chapter 10 — Budgeting and Cost Control (2026-03-02)
+
+### Hard Cost Regional Benchmarks
+
+- **Claim:** Detached 600–800 sq ft ADU hard costs run $120,000–$220,000 on the West Coast, $90,000–$170,000 in the Mountain West/Midwest, and $180,000–$300,000 in high-cost coastal markets (Bay Area, greater Boston).
+- **Source:** Author expertise synthesized with Angi ADU cost guide (already logged) and author field experience across Pacific Northwest markets
+- **URL:** https://www.angi.com/articles/how-much-do-adu-costs.htm (reference only)
+- **Accessed:** 2026-03-02
+- **Category:** B
+- **Notes:** [VERIFY with current RSMeans or Craftsman Cost Data for regional benchmarks before final publication]
+
+### Soft Cost Total Range
+
+- **Claim:** Aggregate soft costs for a typical ADU project run $20,000–$45,000, covering design, structural engineering, civil/soils, energy compliance, permit fees, and inspections.
+- **Source:** Author expertise / Category C
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** Constituent ranges are author expertise drawn from 20+ years of Pacific Northwest construction project experience. Architecture fees cross-referenced with Chapter 4 sources entry. Permit fees cross-referenced with Chapter 8 sources entry.
+
+### Construction Loan Interest Illustrative Cost
+
+- **Claim:** On a $200,000 construction loan at 8% interest over 14 months with average balance of 60%, interest cost runs approximately $13,000–$15,000.
+- **Source:** Author calculation based on stated assumptions
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** Illustrative only. Actual cost varies by loan balance, interest rate environment, and draw schedule. Current interest rate environment should be confirmed before publication.
+
+### Change Order Markup Ranges
+
+- **Claim:** Change orders on ADU projects routinely carry markups of 25–40% above cost, compared to 15–20% in the original bid.
+- **Source:** Author expertise / Category C
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** [VERIFY with industry source — Construction Management Association of America (CMAA) or similar — on typical residential change order markup ranges before publication]
+
+### Owner Costs Range
+
+- **Claim:** Owner costs on ADU projects (storage, landscaping repair, utility reconnection, appliances, moving costs) typically run $5,000–$20,000.
+- **Source:** Author expertise / Category C
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+
+---
+
+## Chapter 11 — Inspections, Certificate of Occupancy, and Closeout (2026-03-02)
+
+### Re-Inspection Fees
+
+- **Claim:** Re-inspection fees typically run $50–$250 per re-inspection, varying by jurisdiction.
+- **Source:** Author expertise / applicant-reported ranges across multiple jurisdictions
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** B
+- **Notes:** [VERIFY with specific jurisdiction fee schedules — LA, Seattle, Denver recommended — before publication]
+
+### Contractor Warranty Standard
+
+- **Claim:** One-year workmanship warranty is the industry standard minimum for GC work on residential construction.
+- **Source:** Author expertise / Category C
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** [VERIFY state-level implied warranty of habitability and statutory construction warranty provisions — several states (e.g., California, Texas) impose longer statutory warranties for residential construction]
+
+### Manufacturer Warranty Typical Terms
+
+- **Claim:** Typical manufacturer warranty durations: roofing 20–50 year manufacturer / 1–10 year installation; windows 10–20 years glass / 1–5 years hardware; HVAC 5–10 years parts / 1 year labor; appliances 1 year parts and labor; water heaters 6–12 years.
+- **Source:** Author expertise / common manufacturer warranty terms
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** These are representative ranges. Specific products vary. Installer warranty is separate from manufacturer warranty and should be confirmed in writing from the installing contractor.
+
+### Utility Connection Lead Times
+
+- **Claim:** Utility connection appointments can run 2–6 weeks out in high-demand markets.
+- **Source:** Author expertise / applicant-reported experience
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** [VERIFY with specific utility providers in target markets (PG&E, SCE, Seattle City Light, Xcel Energy) for current service connection timelines — these vary significantly and change with utility workload]
+
+### Solar PTO Timelines
+
+- **Claim:** Permission to Operate (PTO) for solar systems typically takes 2–8 weeks after system installation and building department approval.
+- **Source:** Author expertise / applicant-reported ranges
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** B
+- **Notes:** [VERIFY with California utilities (PG&E, SCE, SDG&E) and other state utility providers for current PTO processing timelines before publication]
