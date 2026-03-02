@@ -27,6 +27,16 @@ Track claims that need verification before publication. Remove entries once veri
 | 🔴 | Loan Estimate delivery within three business days — confirm TRID regulatory requirement still current | Ch6 | LOW | Established under Regulation Z / TRID; verify no recent regulatory changes. |
 | 🔴 | All-in financing costs typically add 2%–5% to total project cost | Ch6 | MEDIUM | Validate range against industry sources or author experience documentation. |
 | 🔴 | ADU-specific lender landscape — verify which lenders are currently active and offering ADU products | Ch6 | MEDIUM | Emerging sector; firms have entered and exited market. Verify before naming any specific lenders. |
+| 🔴 | Detached ADU all-in cost: $175,000–$300,000 (West Coast), $120,000–$220,000 (Mountain West/Midwest) | Ch4 | HIGH | Author expertise + Angi directional data; needs current regional benchmark source (RS Means, BuildZoom, or local permit-cost data) before publication. |
+| 🔴 | Attached ADU wall savings vs. detached: $15,000–$35,000 | Ch4 | MEDIUM | Author expertise range; needs industry cost source to support before publication. |
+| 🔴 | Garage conversion ADU all-in cost: $80,000–$175,000 | Ch4 | HIGH | Author expertise + Angi directional; needs current regional benchmark source before publication. |
+| 🔴 | JADU size limit cited as 500 sq ft per CA law | Ch4 | HIGH | Verify current CA JADU cap against Gov. Code §66333 and current HCD handbook language; confirm whether any other states with JADU-equivalent categories have different caps. |
+| 🔴 | Architecture fees for ADU design: 8–15% or $8,000–$20,000 fixed | Ch4 | MEDIUM | Author expertise; verify with AIA fee survey data or 2–3 ADU architect quotes in active markets. |
+| 🔴 | Rental premium detached vs. garage conversion: $200–$400/month | Ch4 | MEDIUM | Author expertise; verify with HUD FMR data or rental platform comps across 2–3 markets. |
+| 🔴 | Oregon state pre-approved plan program — current status | Ch4 | MEDIUM | Ch4 references an Oregon state-level pre-approved plan program; regulations/oregon.md notes "No single statewide permit-ready ADU plan library identified." Reconcile: confirm or remove reference before publication. |
+| 🔴 | California Civil Code § 4751 — verify no 2024–2025 amendments affecting HOA ADU provisions | Ch5 | HIGH | Statute cited; not verified for post-2023 amendments. Primary source check required at leginfo.legislature.ca.gov before publication. |
+| 🔴 | Portland SDC waiver savings range: $8,000–$20,000 | Ch5 | MEDIUM | Portland BDS source cited but current fee amounts change; verify current SDC waiver savings range with Portland BDS current fee schedule before publication. |
+| 🔴 | Variance application cost and timeline: $2,000–$8,000 / 3–6 months | Ch5 | LOW | Author expertise; verify fee range with 2–3 specific jurisdiction variance fee schedules before publication. |
 
 ---
 

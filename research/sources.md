@@ -420,3 +420,83 @@ Move any claim here that you weren't able to verify at time of writing. These mu
 - **URL:** https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Community-Planning-and-Development/Plan-Review-Permits-and-Inspections/Single-Family-and-Duplex-Projects/ADU-Permits
 - **Accessed:** 2026-02-26
 - **Category:** A
+
+---
+
+## Chapter 4 — ADU Design Fundamentals (2026-03-02)
+
+### Los Angeles Pre-Approved Plan Program
+
+- **Claim:** Los Angeles LADBS Standard Plan Program offers pre-approved ADU designs that can reduce plan check timelines; the ADU Express program shortens review for qualifying designs.
+- **Source:** Los Angeles Department of Building and Safety (LADBS)
+- **URL:** https://ladbs.org/services/check-status/standard-plan-program
+- **Accessed:** 2026-03-02
+- **Category:** A
+- **Notes:** ADU Express program timelines should be verified directly with LADBS as program structure may change. Also referenced in Chapter 8 sources log.
+
+### Architecture Fees for ADU Design
+
+- **Claim:** Architecture fees for ADU design typically run 8–15% of construction cost, or $8,000–$20,000 as a fixed fee depending on complexity.
+- **Source:** Author expertise / industry-range estimates
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** B/C
+- **Notes:** [VERIFY with 2–3 ADU-focused architect quotes or AIA fee survey data before publication]
+
+### ADU Cost Ranges by Type (Ch4 Reference)
+
+- **Claim:** Detached ADU all-in costs: $175,000–$300,000 (West Coast), $120,000–$220,000 (Mountain West/Midwest). Attached ADU potential savings over detached: $15,000–$35,000. Garage conversion all-in: $80,000–$175,000.
+- **Source:** Author expertise cross-referenced with Angi ADU cost guide (existing source)
+- **URL:** https://www.angi.com/articles/how-much-do-adu-costs.htm
+- **Accessed:** 2026-02-26
+- **Category:** B
+- **Notes:** [VERIFY all type-specific cost ranges with current regional benchmark data before publication — see fact-check log]
+
+### Sewage Ejector Pump Cost
+
+- **Claim:** Sewage ejector pump for ADUs where gravity drain is not feasible: $3,000–$8,000.
+- **Source:** Author expertise (construction PM field experience)
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** Reasonable range from field experience; verify with current plumbing contractor quotes if publishing precise range.
+
+### Rental Premium: Detached vs. Garage Conversion ADU
+
+- **Claim:** Detached ADUs typically command $200–$400 more per month in rent than a garage conversion of comparable size in the same market.
+- **Source:** Author expertise / market observation
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** [VERIFY with local rental market data — HUD FMR data or local rental platform comps recommended before publication]
+
+---
+
+## Chapter 5 — Navigating Regulations (2026-03-02)
+
+### California Civil Code § 4751 — HOA ADU Restriction Prohibition
+
+- **Claim:** California Civil Code § 4751 prohibits HOAs from unreasonably restricting ADU construction that is otherwise permitted under state law.
+- **Source:** California Legislative Information
+- **URL:** https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=4751
+- **Accessed:** 2026-03-02
+- **Category:** A
+- **Notes:** [VERIFY current text against any 2024–2025 amendments before publication]
+
+### Portland SDC Waiver Program
+
+- **Claim:** Portland's SDC waiver program allows homeowners to waive sewer, water, and transportation system development charges in exchange for a recorded covenant against short-term rental use; potential savings $8,000–$20,000.
+- **Source:** Portland Bureau of Development Services SDC waiver page
+- **URL:** https://www.portland.gov/bds/77447
+- **Accessed:** 2026-02-26
+- **Category:** A
+- **Notes:** SDC waiver terms and amounts should be re-verified at time of publication; these have changed over time. [VERIFY current SDC waiver savings range with Portland BDS current fee schedule]
+
+### Variance Application Cost and Timeline
+
+- **Claim:** Pursuing a zoning variance typically costs $2,000–$8,000 in application fees plus legal and design costs, and takes 3–6 months.
+- **Source:** Author expertise (construction PM experience across multiple jurisdictions)
+- **URL:** N/A
+- **Accessed:** N/A
+- **Category:** C
+- **Notes:** [VERIFY fee range with 2–3 specific jurisdiction fee schedules before publication]
